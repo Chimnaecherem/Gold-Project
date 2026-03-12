@@ -33,7 +33,7 @@ function Video() {
         <video src={video} className='w-full h-full  object-cover'loop autoPlay muted> </video>
 
 {/* transparent color */}
-<div className="absolute top-0 left-o w-full h-full bg-black/80"></div>
+<div className="absolute top-0 left-o w-full h-full bg-black/55"></div>
 
         <div className='absolute inset-0  top-80 items-center fill-amber-400 px-6'>
           <p className='font-bold text-8xl text-yellow-600 '>Gold-Light of solar & <br />renewable energy</p>
